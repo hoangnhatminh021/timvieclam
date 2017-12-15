@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "cricketgaming/cricket-games-online",
+    "description": "Cricket Games Framework.",
+    "keywords": ["framework", "cricket games"],
     "license": "MIT",
     "type": "project",
     "require": {
