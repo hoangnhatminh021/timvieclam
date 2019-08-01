@@ -1,8 +1,8 @@
 
 {
-    "name": "cricketgaming/cricket-games-online",
-    "description": "Cricket Games Framework.",
-    "keywords": ["framework", "cricket games"],
+    "name": "hoangnhatminh021/timvieclam",
+    "description": "Tuyển dụng việc làm Framework.",
+    "keywords": ["framework", "tim viec lam"],
     "license": "MIT",
     "type": "project",
     "require": {
